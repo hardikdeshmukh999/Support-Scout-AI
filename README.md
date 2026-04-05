@@ -101,6 +101,13 @@ Output prints in the terminal. Generated files go to `data/` (ignored by git so 
 
 ---
 
+## Docs
+
+- https://docs.google.com/document/d/13EEcwAFOGzy2d7xyfgbY75H9Ju7E3NokDSVkdA7xYIg/edit?pli=1&tab=t.0
+
+
+---
+
 ## License
 
 Use and modify freely for learning and prototyping.
